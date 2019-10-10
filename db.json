@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,15 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 3
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -19,12 +26,30 @@
       "catName": "Gunnar",
       "catBreed": "American Shorthair",
       "id": 2
+    },
+    {
+      "catName": "Garfield",
+      "catBreed": "Tabby",
+      "id": 3
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "userName": "Danny",
+      "userEmail": "danmi@gmail.com",
+      "id": 1
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    },
+    {
+      "robotName": "R2-D2",
+      "robotType": "Astromech Droid",
+      "id": 9001
+    }
+  ]
 }
