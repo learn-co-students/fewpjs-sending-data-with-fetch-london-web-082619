@@ -1,6 +1,6 @@
 // Add your code here
 
-const usersURL = 'http://localhost:3001/users';
+const usersURL = 'http://localhost:3000/users';
 const body = document.querySelector('body')
 
 // write a valid POST request to  using fetch()
